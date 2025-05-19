@@ -54,26 +54,20 @@ As a **Performance Analyst**, my goal was to extract insights from the data and 
 
 ## 🖼️ Sample Visuals
 
-> _Include screenshots from the notebook or chart outputs like pricing histograms, line graphs over time, or correlation heatmaps._
+> ![image](https://github.com/user-attachments/assets/38cb417c-9065-4b4b-85f8-88c4ab65fba5)
+> ![image](https://github.com/user-attachments/assets/55ad6a7c-f85a-41a6-b4c7-8617115d1b33)
+> ![image](https://github.com/user-attachments/assets/d15e76c9-130e-47ca-ad8f-055a7513e8ed)
+> ![image](https://github.com/user-attachments/assets/774d3408-88b5-49ca-b896-fd92336b7af8)
+> ![image](https://github.com/user-attachments/assets/398133d0-4c92-486c-8edd-2bd494ead9ab)
 
 ---
-
-## 📂 Project Structure
-
-```
-📁 Python-AirBnB-Project/
-├── Python Air BnB Project.ipynb
-├── Listings.csv
-├── README.md
-└── images/ (optional for plots/screenshots)
-```
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repo
-2. Open the Jupyter Notebook: `Python Air BnB Project.ipynb`
+2. Open the Jupyter Notebook: `[Python Air BnB Project.ipynb](https://github.com/iNish27/AirBnB-Listing/blob/main/Python%20Air%20BnB%20Project.ipynb)`
 3. Make sure you have the required libraries:
 ```bash
 pip install pandas matplotlib seaborn
@@ -82,17 +76,3 @@ pip install pandas matplotlib seaborn
 
 ---
 
-## 📬 Contact
-
-Feel free to connect or provide feedback:
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 [Portfolio Website](https://yourwebsite.com)
-
----
-
-## 📜 License
-
-This project is for educational and portfolio use. Data provided by Maven Analytics.
